@@ -1,0 +1,14 @@
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\bin\Debug\net8.0\StackArray.exe
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\bin\Debug\net8.0\StackArray.deps.json
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\bin\Debug\net8.0\StackArray.runtimeconfig.json
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\bin\Debug\net8.0\StackArray.dll
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\bin\Debug\net8.0\StackArray.pdb
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfoInputs.cache
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfo.cs
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.dll
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\refint\StackArray.dll
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.pdb
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\StackArray.genruntimeconfig.cache
+C:\Users\PC-04\Desktop\Martin 10 klas\Калоян\Izpitwane\StackArray\obj\Debug\net8.0\ref\StackArray.dll
